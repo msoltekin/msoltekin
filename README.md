@@ -1,12 +1,12 @@
-## Fullstack && DevOps with Mustafa
+## Fullstack & DevOps & Cloud with Mustafa
 
 | Frontend | Design && Architecture | Microservices |
 | -------- | -------- | -------- |
 | ... | ... | ... |
 
-| Azure Cloud | CI-CD | Security | Cost Optimization | 
-| -------- | -------- | -------- | -------- |
-| ... | ... | ... | ... |
+| Azure Cloud | CI/CD | IAC | Security | Cost Optimization | 
+| -------- | -------- | -------- | -------- | -------- |
+| ... | ... | ... | ... | ... |
 
 
 ---
