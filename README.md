@@ -1,6 +1,6 @@
 ## Fullstack & DevOps & Cloud with Mustafa
 
-| Frontend | Design && Architecture | Microservices |
+| Frontend | Design & Architecture | Microservices |
 | -------- | -------- | -------- |
 | ... | ... | ... |
 
