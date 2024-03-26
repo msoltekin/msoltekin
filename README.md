@@ -1,12 +1,12 @@
 ## Fullstack & DevOps & Cloud with Mustafa
 
-| Frontend | Design & Architecture | Microservices |
-| -------- | -------- | -------- |
-| ... | ... | ... |
+| Frontend | Design & Architecture | Microservices | Algorithms |
+| -------- | -------- | -------- | -------- |
+| ... | ... | ... | ... |
 
-| Azure Cloud | CI/CD | IAC | Security | Cost Optimization | 
-| -------- | -------- | -------- | -------- | -------- |
-| ... | ... | ... | ... | ... |
+| Azure Cloud | CI/CD | IAC | Security | Cost Optimization | Prompt Engineering | Generative AI | Azure Open AI |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| ... | ... | ... | ... | ... | ... | ... | ... |
 
 
 ---
