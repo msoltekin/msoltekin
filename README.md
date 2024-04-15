@@ -2,7 +2,7 @@
 
 | Frontend | Design & Architecture | Microservices | Algorithms |
 | -------- | -------- | -------- | -------- |
-| ... | ... | ... | 1. [fast-tree] (https://github.com/msoltekin/FastTree) |
+| ... | ... | ... | 1. [fast-tree](https://github.com/msoltekin/FastTree) |
 
 | Azure Cloud | CI/CD | IAC | Security | Cost Optimization | Prompt Engineering | Generative AI | Azure Open AI |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
