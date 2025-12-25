@@ -6,7 +6,7 @@
 
 | Azure Cloud | CI/CD | IAC | Security | Cost Optimization | Prompt Engineering | AI Engineering | Azure Open AI |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| ... | ... | ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... | 1. [AI Engineering Bootcamp] (https://github.com/msoltekin/AIEngineeringBootcamp) | ... |
 
 
 ---
